@@ -13,7 +13,7 @@ class Human {
     // ...
 
 }
-
+s
 let human = new Human();
 console.log(human.fullName()); // John Doe
 
